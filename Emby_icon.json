@@ -1,0 +1,13 @@
+{
+	"name":"自用", "description":"自用勿传", 
+  "icons": [
+    {
+      "name": "laosifu_fang",
+      "url": "https://github.com/callmekemo/icon-collection/blob/Emby_icon/laosifu_fang.png"
+    },
+    {
+      "name": "laosifu_yuan",
+      "url": "https://github.com/callmekemo/icon-collection/blob/Emby_icon/laosifu_yuan.png"
+    }
+  ]
+}
