@@ -1,6 +1,46 @@
 {
-  "name":"自用", "description":"自用勿传", 
+  "name":"自用Emby图标库", "description":"自用勿传 按字母顺序排序", 
   "icons": [
+     {
+      "name": "Alist_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/Alist_fang.png"
+    },
+    {
+      "name": "Alist_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/Alist_yuan.png"
+    },
+    {
+      "name": "CC-fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/CC-fang.png"
+    },
+    {
+      "name": "CC-yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/CC-yuan.png"
+    },
+    {
+      "name": "Hka_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/Hka_fang.png"
+    },
+    {
+      "name": "Hka_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/Hka_yuan.png"
+    },
+    {
+      "name": "jianshouqing_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/jianshouqing_fang.png"
+    },
+    {
+      "name": "jianshouqing_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/jianshouqing_yuan.png"
+    },
+    {
+      "name": "juanmaoshu_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/juanmaoshu_fang.png"
+    },
+    {
+      "name": "juanmaoshu_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/juanmaoshu_yuan.png"
+    },
     {
       "name": "laosifu_fang",
       "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/laosifu_fang.png"
@@ -18,12 +58,60 @@
       "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/Lyrebird_yuan.png"
     },
     {
+      "name": "mooguu_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/mooguu_fang.png"
+    },
+    {
+      "name": "mooguu_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/mooguu_yuan.png"
+    },
+    {
       "name": "SaturDay Lite_fang",
       "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/SaturDay Lite_fang.png"
     },
     {
       "name": "SaturDay Lite_yuan",
       "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/SaturDay Lite_yuan.png"
+    },
+    {
+      "name": "shoushushijiexian_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/shoushushijiexian_fang.png"
+    },
+    {
+      "name": "shoushushijiexian_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/shoushushijiexian_yuan.png"
+    },    
+    {
+      "name": "Temby_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/Temby_fang.png"
+    },
+    {
+      "name": "Temby_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/Temby_yuan.png"
+    },           
+    {
+      "name": "POLO_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/POLO_fang.png"
+    },
+    {
+      "name": "POLO_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/POLO_yuan.png"
+    },
+    {
+      "name": "xingyun_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/xingyun_fang.png"
+    },
+    {
+      "name": "xingyun_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/xingyun_yuan.png"
+    },
+    {
+      "name": "yuebing_fang",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/yuebing_fang.png"
+    },
+    {
+      "name": "yuebing_yuan",
+      "url": "https://raw.githubusercontent.com/callmekemo/icon-collection/Emby_icon/yuebing_yuan.png"
     }
   ]
 }
